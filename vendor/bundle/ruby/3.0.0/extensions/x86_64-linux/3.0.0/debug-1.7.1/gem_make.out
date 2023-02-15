@@ -1,0 +1,16 @@
+current directory: /home/dell/graphql_fun/vendor/bundle/ruby/3.0.0/gems/debug-1.7.1/ext/debug
+/home/dell/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/dell/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20230213-77800-i0eei6.rb extconf.rb
+creating Makefile
+
+current directory: /home/dell/graphql_fun/vendor/bundle/ruby/3.0.0/gems/debug-1.7.1/ext/debug
+make "DESTDIR=" clean
+
+current directory: /home/dell/graphql_fun/vendor/bundle/ruby/3.0.0/gems/debug-1.7.1/ext/debug
+make "DESTDIR="
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/dell/graphql_fun/vendor/bundle/ruby/3.0.0/gems/debug-1.7.1/ext/debug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 debug.so ./.gem.20230213-77800-7gq77k/debug
